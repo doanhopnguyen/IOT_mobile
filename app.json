@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "IOT_mobile",
-    "slug": "IOT_mobile",
+    "name": "Smart Door",
+    "slug": "smart-door",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "smartdoor",
     "ios": {
       "supportsTablet": true
     },
